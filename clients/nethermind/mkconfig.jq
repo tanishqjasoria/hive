@@ -95,6 +95,9 @@ def base_config:
       "BlocksDir": "/blocks",
       "KeysDir": "/keys"
     },
+    "Sync": {
+        "SnapSync": true
+    },
   }
 ;
 
